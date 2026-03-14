@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "aviv000",
+  "repo": "container-alc2m4e",
+  "name": "aviv000",
+  "email": "aviv6u6@gmail.com",
+}
